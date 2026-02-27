@@ -14,7 +14,7 @@ body {
 
 .hero {
   height: 60vh;
-  background: linear-gradient(120deg, #ff0000, #000000);
+  background-image: url('123.webp')
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -276,4 +276,5 @@ table {
         border-bottom: 1px solid #333;
         padding: 12px;
         text-align: left;
+
     }
